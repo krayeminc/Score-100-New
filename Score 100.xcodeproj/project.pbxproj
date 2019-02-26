@@ -15,6 +15,31 @@
 		9D9ED17C1B765EF600DF00C5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED17B1B765EF600DF00C5 /* Images.xcassets */; };
 		9D9ED17F1B765EF600DF00C5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED17D1B765EF600DF00C5 /* LaunchScreen.xib */; };
 		9D9ED18B1B765EF600DF00C5 /* Score_100Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D9ED18A1B765EF600DF00C5 /* Score_100Tests.swift */; };
+		9D9ED1951B765F2D00DF00C5 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D9ED1941B765F2D00DF00C5 /* iAd.framework */; };
+		9D9ED1971B765F4800DF00C5 /* MainMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D9ED1961B765F4800DF00C5 /* MainMenu.swift */; };
+		9D9ED1991B765F5700DF00C5 /* CreditScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D9ED1981B765F5700DF00C5 /* CreditScene.swift */; };
+		9D9ED19B1B7660A200DF00C5 /* music1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED19A1B7660A200DF00C5 /* music1.wav */; };
+		9D9ED19D1B7660C100DF00C5 /* fixedRed.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED19C1B7660C100DF00C5 /* fixedRed.png */; };
+		9D9ED19F1B7660C400DF00C5 /* fixedButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED19E1B7660C400DF00C5 /* fixedButton.png */; };
+		9D9ED1A51B7660D900DF00C5 /* redBlock.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1A41B7660D900DF00C5 /* redBlock.png */; };
+		9D9ED1AA1B76620400DF00C5 /* gameStart.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1A91B76620400DF00C5 /* gameStart.wav */; };
+		9D9ED1AC1B76626700DF00C5 /* circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1AB1B76626700DF00C5 /* circle.png */; };
+		9D9ED1AE1B76632C00DF00C5 /* bullet1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1AD1B76632C00DF00C5 /* bullet1.png */; };
+		9D9ED1B01B76643B00DF00C5 /* PUSAB___.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1AF1B76638F00DF00C5 /* PUSAB___.TTF */; };
+		9D9ED1BB1B76657600DF00C5 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1B11B76657600DF00C5 /* Icon-40.png */; };
+		9D9ED1BC1B76657600DF00C5 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1B21B76657600DF00C5 /* Icon-40@2x.png */; };
+		9D9ED1BD1B76657600DF00C5 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1B31B76657600DF00C5 /* Icon-60@2x.png */; };
+		9D9ED1BE1B76657600DF00C5 /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1B41B76657600DF00C5 /* Icon-60@3x.png */; };
+		9D9ED1BF1B76657600DF00C5 /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1B51B76657600DF00C5 /* Icon-Small@3x.png */; };
+		9D9ED1C01B76657600DF00C5 /* Icon-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1B61B76657600DF00C5 /* Icon-40@3x.png */; };
+		9D9ED1C11B76657600DF00C5 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1B71B76657600DF00C5 /* Icon-76.png */; };
+		9D9ED1C21B76657600DF00C5 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1B81B76657600DF00C5 /* Icon-76@2x.png */; };
+		9D9ED1C31B76657600DF00C5 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1B91B76657600DF00C5 /* Icon-Small.png */; };
+		9D9ED1C41B76657600DF00C5 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D9ED1BA1B76657600DF00C5 /* Icon-Small@2x.png */; };
+		9DAF2F291C386B0100A134D8 /* HeyzapAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DAF2F281C386B0100A134D8 /* HeyzapAd.framework */; };
+		9DAF2F2D1C386E6600A134D8 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DAF2F2C1C386E6600A134D8 /* libsqlite3.tbd */; };
+		9DAF2F2F1C386E7B00A134D8 /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DAF2F2E1C386E7B00A134D8 /* libxml2.tbd */; };
+		9DD201801B8495AB00C104BA /* GameOverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DD2017F1B8495AB00C104BA /* GameOverScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +65,33 @@
 		9D9ED1841B765EF600DF00C5 /* Score 100Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Score 100Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D9ED1891B765EF600DF00C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D9ED18A1B765EF600DF00C5 /* Score_100Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Score_100Tests.swift; sourceTree = "<group>"; };
+		9D9ED1941B765F2D00DF00C5 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		9D9ED1961B765F4800DF00C5 /* MainMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainMenu.swift; path = ../MainMenu.swift; sourceTree = "<group>"; };
+		9D9ED1981B765F5700DF00C5 /* CreditScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CreditScene.swift; path = ../CreditScene.swift; sourceTree = "<group>"; };
+		9D9ED19A1B7660A200DF00C5 /* music1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = music1.wav; sourceTree = "<group>"; };
+		9D9ED19C1B7660C100DF00C5 /* fixedRed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fixedRed.png; sourceTree = "<group>"; };
+		9D9ED19E1B7660C400DF00C5 /* fixedButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fixedButton.png; sourceTree = "<group>"; };
+		9D9ED1A41B7660D900DF00C5 /* redBlock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redBlock.png; sourceTree = "<group>"; };
+		9D9ED1A91B76620400DF00C5 /* gameStart.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = gameStart.wav; sourceTree = "<group>"; };
+		9D9ED1AB1B76626700DF00C5 /* circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle.png; sourceTree = "<group>"; };
+		9D9ED1AD1B76632C00DF00C5 /* bullet1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bullet1.png; sourceTree = "<group>"; };
+		9D9ED1AF1B76638F00DF00C5 /* PUSAB___.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PUSAB___.TTF"; sourceTree = "<group>"; };
+		9D9ED1B11B76657600DF00C5 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
+		9D9ED1B21B76657600DF00C5 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		9D9ED1B31B76657600DF00C5 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		9D9ED1B41B76657600DF00C5 /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@3x.png"; sourceTree = "<group>"; };
+		9D9ED1B51B76657600DF00C5 /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@3x.png"; sourceTree = "<group>"; };
+		9D9ED1B61B76657600DF00C5 /* Icon-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@3x.png"; sourceTree = "<group>"; };
+		9D9ED1B71B76657600DF00C5 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		9D9ED1B81B76657600DF00C5 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		9D9ED1B91B76657600DF00C5 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		9D9ED1BA1B76657600DF00C5 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		9DAF2F281C386B0100A134D8 /* HeyzapAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HeyzapAd.framework; sourceTree = "<group>"; };
+		9DAF2F2A1C386C2600A134D8 /* Score 100-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Score 100-Bridging-Header.h"; sourceTree = SOURCE_ROOT; };
+		9DAF2F2B1C386C2700A134D8 /* UIViewController_bridging.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewController_bridging.h; sourceTree = "<group>"; };
+		9DAF2F2C1C386E6600A134D8 /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		9DAF2F2E1C386E7B00A134D8 /* libxml2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libxml2.tbd; path = usr/lib/libxml2.tbd; sourceTree = SDKROOT; };
+		9DD2017F1B8495AB00C104BA /* GameOverScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GameOverScene.swift; path = ../GameOverScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +99,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DAF2F2F1C386E7B00A134D8 /* libxml2.tbd in Frameworks */,
+				9DAF2F2D1C386E6600A134D8 /* libsqlite3.tbd in Frameworks */,
+				9DAF2F291C386B0100A134D8 /* HeyzapAd.framework in Frameworks */,
+				9D9ED1951B765F2D00DF00C5 /* iAd.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +119,10 @@
 		9D9ED1621B765EF600DF00C5 = {
 			isa = PBXGroup;
 			children = (
+				9DAF2F2E1C386E7B00A134D8 /* libxml2.tbd */,
+				9DAF2F2C1C386E6600A134D8 /* libsqlite3.tbd */,
+				9DAF2F2B1C386C2700A134D8 /* UIViewController_bridging.h */,
+				9D9ED1941B765F2D00DF00C5 /* iAd.framework */,
 				9D9ED16D1B765EF600DF00C5 /* Score 100 */,
 				9D9ED1871B765EF600DF00C5 /* Score 100Tests */,
 				9D9ED16C1B765EF600DF00C5 /* Products */,
@@ -81,11 +141,16 @@
 		9D9ED16D1B765EF600DF00C5 /* Score 100 */ = {
 			isa = PBXGroup;
 			children = (
+				9DAF2F281C386B0100A134D8 /* HeyzapAd.framework */,
 				9D9ED1701B765EF600DF00C5 /* AppDelegate.swift */,
 				9D9ED1721B765EF600DF00C5 /* GameScene.sks */,
 				9D9ED1741B765EF600DF00C5 /* GameScene.swift */,
+				9DD2017F1B8495AB00C104BA /* GameOverScene.swift */,
+				9D9ED1961B765F4800DF00C5 /* MainMenu.swift */,
+				9D9ED1981B765F5700DF00C5 /* CreditScene.swift */,
 				9D9ED1761B765EF600DF00C5 /* GameViewController.swift */,
 				9D9ED1781B765EF600DF00C5 /* Main.storyboard */,
+				9DAF2F2A1C386C2600A134D8 /* Score 100-Bridging-Header.h */,
 				9D9ED17B1B765EF600DF00C5 /* Images.xcassets */,
 				9D9ED17D1B765EF600DF00C5 /* LaunchScreen.xib */,
 				9D9ED16E1B765EF600DF00C5 /* Supporting Files */,
@@ -96,6 +161,24 @@
 		9D9ED16E1B765EF600DF00C5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9D9ED1AF1B76638F00DF00C5 /* PUSAB___.TTF */,
+				9D9ED1B11B76657600DF00C5 /* Icon-40.png */,
+				9D9ED1B21B76657600DF00C5 /* Icon-40@2x.png */,
+				9D9ED1B31B76657600DF00C5 /* Icon-60@2x.png */,
+				9D9ED1B41B76657600DF00C5 /* Icon-60@3x.png */,
+				9D9ED1B51B76657600DF00C5 /* Icon-Small@3x.png */,
+				9D9ED1B61B76657600DF00C5 /* Icon-40@3x.png */,
+				9D9ED1B71B76657600DF00C5 /* Icon-76.png */,
+				9D9ED1B81B76657600DF00C5 /* Icon-76@2x.png */,
+				9D9ED1B91B76657600DF00C5 /* Icon-Small.png */,
+				9D9ED1BA1B76657600DF00C5 /* Icon-Small@2x.png */,
+				9D9ED19A1B7660A200DF00C5 /* music1.wav */,
+				9D9ED19C1B7660C100DF00C5 /* fixedRed.png */,
+				9D9ED19E1B7660C400DF00C5 /* fixedButton.png */,
+				9D9ED1A41B7660D900DF00C5 /* redBlock.png */,
+				9D9ED1A91B76620400DF00C5 /* gameStart.wav */,
+				9D9ED1AD1B76632C00DF00C5 /* bullet1.png */,
+				9D9ED1AB1B76626700DF00C5 /* circle.png */,
 				9D9ED16F1B765EF600DF00C5 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -162,11 +245,14 @@
 		9D9ED1631B765EF600DF00C5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0640;
+				LastSwiftMigration = 0710;
+				LastSwiftUpdateCheck = 0710;
+				LastUpgradeCheck = 0710;
 				ORGANIZATIONNAME = KrayemApps;
 				TargetAttributes = {
 					9D9ED16A1B765EF600DF00C5 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = HBWASXKH9A;
 					};
 					9D9ED1831B765EF600DF00C5 = {
 						CreatedOnToolsVersion = 6.4;
@@ -198,10 +284,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D9ED1B01B76643B00DF00C5 /* PUSAB___.TTF in Resources */,
+				9D9ED19D1B7660C100DF00C5 /* fixedRed.png in Resources */,
+				9D9ED1AC1B76626700DF00C5 /* circle.png in Resources */,
+				9D9ED1C21B76657600DF00C5 /* Icon-76@2x.png in Resources */,
+				9D9ED19F1B7660C400DF00C5 /* fixedButton.png in Resources */,
+				9D9ED1AA1B76620400DF00C5 /* gameStart.wav in Resources */,
 				9D9ED17F1B765EF600DF00C5 /* LaunchScreen.xib in Resources */,
+				9D9ED1BD1B76657600DF00C5 /* Icon-60@2x.png in Resources */,
 				9D9ED17C1B765EF600DF00C5 /* Images.xcassets in Resources */,
+				9D9ED1AE1B76632C00DF00C5 /* bullet1.png in Resources */,
+				9D9ED1BC1B76657600DF00C5 /* Icon-40@2x.png in Resources */,
+				9D9ED1C31B76657600DF00C5 /* Icon-Small.png in Resources */,
+				9D9ED1C41B76657600DF00C5 /* Icon-Small@2x.png in Resources */,
 				9D9ED1731B765EF600DF00C5 /* GameScene.sks in Resources */,
+				9D9ED1BF1B76657600DF00C5 /* Icon-Small@3x.png in Resources */,
+				9D9ED1BB1B76657600DF00C5 /* Icon-40.png in Resources */,
+				9D9ED19B1B7660A200DF00C5 /* music1.wav in Resources */,
 				9D9ED17A1B765EF600DF00C5 /* Main.storyboard in Resources */,
+				9D9ED1BE1B76657600DF00C5 /* Icon-60@3x.png in Resources */,
+				9D9ED1C11B76657600DF00C5 /* Icon-76.png in Resources */,
+				9D9ED1A51B7660D900DF00C5 /* redBlock.png in Resources */,
+				9D9ED1C01B76657600DF00C5 /* Icon-40@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,6 +326,9 @@
 				9D9ED1751B765EF600DF00C5 /* GameScene.swift in Sources */,
 				9D9ED1771B765EF600DF00C5 /* GameViewController.swift in Sources */,
 				9D9ED1711B765EF600DF00C5 /* AppDelegate.swift in Sources */,
+				9D9ED1971B765F4800DF00C5 /* MainMenu.swift in Sources */,
+				9DD201801B8495AB00C104BA /* GameOverScene.swift in Sources */,
+				9D9ED1991B765F5700DF00C5 /* CreditScene.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,6 +391,7 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -348,9 +456,26 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Score",
+					100,
+					"$(PROJECT_DIR)/Score",
+					100,
+				);
 				INFOPLIST_FILE = "Score 100/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Krayem.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Score 100-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -358,9 +483,25 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Score",
+					100,
+					"$(PROJECT_DIR)/Score",
+					100,
+				);
 				INFOPLIST_FILE = "Score 100/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Krayem.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Score 100-Bridging-Header.h";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -378,6 +519,7 @@
 				);
 				INFOPLIST_FILE = "Score 100Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Krayem.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Score 100.app/Score 100";
 			};
@@ -393,6 +535,7 @@
 				);
 				INFOPLIST_FILE = "Score 100Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Krayem.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Score 100.app/Score 100";
 			};
@@ -417,6 +560,7 @@
 				9D9ED1901B765EF600DF00C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D9ED1911B765EF600DF00C5 /* Build configuration list for PBXNativeTarget "Score 100Tests" */ = {
 			isa = XCConfigurationList;
@@ -425,6 +569,7 @@
 				9D9ED1931B765EF600DF00C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

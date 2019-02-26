@@ -7,15 +7,43 @@
 //
 
 import UIKit
+import iAd
+
+import AdSupport;
+import CoreGraphics;
+import CoreLocation;
+import CoreTelephony;
+import EventKit;
+import EventKitUI;
+import MediaPlayer;
+import MessageUI;
+import MobileCoreServices;
+import QuartzCore;
+import Security;
+import StoreKit;
+import iAd;
+
+
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+    var HeyZap = HeyzapAds()
+
+    
     var window: UIWindow?
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        //UIViewController.prepareInterstitialAds()
+        
+        HeyzapAds.startWithPublisherID("c1b7bed2a952acb6fe4d2200c3648a38")
+
+        HZVideoAd.fetch()
+
+
+        
         return true
     }
 
